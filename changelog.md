@@ -11,7 +11,7 @@ If you are using TrickyStore and you have a valid keybox, but Strong
 isn't passing, maybe you should change the ROM.
 Stock ROMs gives the best results.
 
-# v18.2
+# v18.8
 
 - Update fingerprint
 - Add action.sh (to auto update fingerprint to latest beta)
