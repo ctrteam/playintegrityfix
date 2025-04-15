@@ -41,7 +41,7 @@ And in SafetyNet you should get this:
 
 - basicIntegrity:  true
 - ctsProfileMatch: true
-- evaluationType:  basic
+- evaluationType:  BASIC
 
 NOTE: Strong verdict is impossible to pass on unlocked bootloader devices, there are few devices and "exploits" which will allow you to pass it, but, in normal conditions, this verdict will be green only if you are using stock ROM and locked bootloader. The old posts talking about Strong pass was an "exploit" in Google servers, obviously, now it's patched.
 
