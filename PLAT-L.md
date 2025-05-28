@@ -1,18 +1,10 @@
 # v19.5
 
-Update strong 💪🔥🔥 Free for you 🤭
+Update strong 💪🔥🔥  Free for you 🤭
+- Khusus Android 12 kebawah
+- So...semangat ALL STAR TEAM
+- Pasti ada jalan walau jalannya terjal 😂
 
-
-Khusus android 12 kebawah
-
-Fix legacy checks in Play Integrity API
-
-So...semangat ALL STAR TEAM
-
-Pasti ada jalan walau jalannya terjal 😂
-
-Root channel:
-
-🛠️ @artofrooting
-
-☎️ @nerimo_ingPandum
+     Root channel:
+- 🛠️ [@artofrooting](https://t.me/artofrooting)
+- ☎️ [@nerimo_ingPandum](https://t.me/nerimo_ingPandum)
