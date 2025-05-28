@@ -1,7 +1,7 @@
-# v19.5
+# v01.0
 
 Update strong 💪🔥🔥  Free for you 🤭
-- Khusus Android 12 kebawah
+- Khusus Android 12 & kebawahnya
 - So...semangat ALL STAR TEAM
 - Pasti ada jalan walau jalannya terjal 😂
 
