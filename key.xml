@@ -1,20 +1,18 @@
 <?xml version="1.0"?>
-<AndroidAttestation>​​​​‌‌‌​
-<NumberOfKeyboxes>​﻿1</NumberOfKeyboxes>​​​‍‌​​​
-<Keybox DeviceID="Free keybox. Join my group: t.me/plat_L">​​​﻿‌‌​﻿
-<Key algorithm="ecdsa">​​‌​‌‍‍​
-<PrivateKey format="pem">
------BEGIN EC PRIVATE KEY-----
+<AndroidAttestation>‌‌‌
+<NumberOfKeyboxes>‌‌‌﻿1</NumberOfKeyboxes>‍‌
+<Keybox DeviceID="">﻿‌‌﻿
+<Key algorithm="ecdsa">‌‌‍‍
+<PrivateKey format="pem">-----BEGIN EC PRIVATE KEY-----
 MHcCAQEEIJ7VBLqfzXV8fYirbsBysde+2EMSL4Wj5BEKQDj4x8cQoAoGCCqGSM49
 AwEHoUQDQgAEWQKDJEjYF5+jEWNIzN7f+xRDgTlVl1xIFVzttcCt/eEzht2lauE4
 uixlUyRtztpxGW10gljiHAPncsUN4RWRwQ==
 -----END EC PRIVATE KEY-----
-</PrivateKey>​​‌‌‌‍​‌
-<CertificateChain>​​‌‍‌﻿
-<!--https://t.me/plat_L-->
-<NumberOfCertificates>3</NumberOfCertificates>​​‍‍‌﻿‍​
-<Certificate format="pem">
------BEGIN CERTIFICATE-----
+</PrivateKey>‌‌‌‍‌
+<CertificateChain>‌‍‌﻿‍
+    <!--https://t.me/plat_L-->
+<NumberOfCertificates>‌﻿‌‍‌‌‍‌‍﻿3‍‌‌‍</NumberOfCertificates>‍‍‌﻿‍
+<Certificate format="pem">-----BEGIN CERTIFICATE-----
 MIICJDCCAaugAwIBAgIKAZZYMGAohlAYITAKBggqhkjOPQQDAjApMRkwFwYDVQQF
 ExA1NDRjMTRlMTJkYzgyMGYzMQwwCgYDVQQMDANURUUwHhcNMTgwNDE4MjIzOTM0
 WhcNMjgwNDE1MjIzOTM0WjApMRkwFwYDVQQFExA0Nzc3YzQwZDJhMWQyNjVmMQww
@@ -28,7 +26,7 @@ ODIxMAoGCCqGSM49BAMCA2cAMGQCMGpnxr5EMyG9NdyEDnfbug1sLoWwceLZjRHP
 FTHfAioaW9/VTdZiv7Y0LeTi71EJlgIwF+/lhjz64sYvRQ7dcHHtkwuJ1sq15NGI
 sArG9azYUxqKNQ6ZxukLWWLbPiQaKY6A
 -----END CERTIFICATE-----
-</Certificate>​​​​‌‌‌​
+</Certificate>‌‌‌
 <Certificate format="pem">-----BEGIN CERTIFICATE-----
 MIID0TCCAbmgAwIBAgIKA4gmZ2BliZaFkzANBgkqhkiG9w0BAQsFADAbMRkwFwYD
 VQQFExBmOTIwMDllODUzYjZiMDQ1MB4XDTE4MDQxODIyMjE0MVoXDTI4MDQxNTIy
@@ -52,7 +50,7 @@ e0ED7t8MLJ/f1/todJEaQOHk2uysbpr0SIZdtWqS4w7IQRpGo4RaiKl7rYHVvXiu
 BPqt2S8MeNyPi225Yq/gWZSLtPcg2Dl45aFzqw72egCt5b20ijNGnUIUQP7snMHK
 L+4JoGl86LC7xtbpdLKvcJO9Vv3u
 -----END CERTIFICATE-----
-</Certificate>​​​‌‌​‌﻿
+</Certificate>‌‌‌﻿
 <Certificate format="pem">-----BEGIN CERTIFICATE-----
 MIIFYDCCA0igAwIBAgIJAOj6GWMU0voYMA0GCSqGSIb3DQEBCwUAMBsxGTAXBgNV
 BAUTEGY5MjAwOWU4NTNiNmIwNDUwHhcNMTYwNTI2MTYyODUyWhcNMjYwNTI0MTYy
@@ -84,10 +82,10 @@ qwLqRBYkA3I75qppLGG9rp7UCdRjxMl8ZDBld+7yvHVgt1cVzJx9xnyGCC23Uaic
 MDSXYrB4I4WHXPGjxhZuCuPBLTdOLU8YRvMYdEvYebWHMpvwGCF6bAx3JBpIeOQ1
 wDB5y0USicV3YgYGmi+NZfhA4URSh77Yd6uuJOJENRaNVTzk
 -----END CERTIFICATE-----
-</Certificate>​​​‍‌​​​
-</CertificateChain>​​​﻿‌‌​﻿
-</Key>​​‌​‌‍‍​
-<Key algorithm="rsa">​​‌‌‌‍​‌
+</Certificate>‍‌
+</CertificateChain>﻿‌‌﻿
+</Key>‌‌‍‍
+<Key algorithm="rsa">‌‌‌‍‌
 <PrivateKey format="pem">-----BEGIN RSA PRIVATE KEY-----
 MIIG5gIBAAKCAYEA3Yi2q4dDxcon1uFQYqv9ch5yIfclg8nmC13Q4HG+TYC/haMv
 aCMmuJKkdc1ZCeY6PKJ1CoJsIirRHB9/VyuqCQ7c0wFgX9XvBUSyNoYOK7XSf/WK
@@ -127,10 +125,10 @@ ObA9vnfCtuVFpxf8vGkUvXmLh05VjvCb81QqazDAKCqHM13QWbJX3TRMd9Ns57Tq
 pn39upSelq9fqrEBEEcIbkQ5M2fiprg9Dc8bfEICrdAoVOTtsittq+bhNPC82T/p
 NqLUyJsZq0WKWJAuh2lxK0T5U/jwZqYQ70TLatyFZhZY/lxX5Auf4FoU
 -----END RSA PRIVATE KEY-----
-    <!--https://t.me/plat_L-->​​‌‍‌﻿​‍
-</PrivateKey>​​‌﻿‌‍‌‌
-<CertificateChain>​​‍​‌​‍﻿
-<NumberOfCertificates>3</NumberOfCertificates>​​​‌‌​‌﻿
+    <!--https://t.me/plat_L-->‌‍‌﻿‍
+</PrivateKey>‌﻿‌‍‌‌
+<CertificateChain>‍‌‍﻿
+<NumberOfCertificates>‍‌‌‍‍‍‌﻿‍3‌‌‌</NumberOfCertificates>‌‌‌﻿
 <Certificate format="pem">-----BEGIN CERTIFICATE-----
 MIIFETCCAvmgAwIBAgIKFIGQWXmBkAIxhDANBgkqhkiG9w0BAQsFADApMRkwFwYD
 VQQFExA1NDRjMTRlMTJkYzgyMGYzMQwwCgYDVQQMDANURUUwHhcNMTgwNDE4MjIz
@@ -161,7 +159,7 @@ BwWNfoUG5mzPcPhdQwHqzHfvHB9APqr4nVApjtQDhU96tKmOVV0fJAhPnUb4J2Vm
 FjfWqcNRzIEdrslW++ESJwRhNZiuMFm4wZWCPP1vgwaUwXGDnQQWZ54TVM9PT3Gn
 qEFGHgs=
 -----END CERTIFICATE-----
-</Certificate>​​​‍‌​​​
+</Certificate>‍‌
 <Certificate format="pem">-----BEGIN CERTIFICATE-----
 MIIFfzCCA2egAwIBAgIKA4gmZ2BliZaFkjANBgkqhkiG9w0BAQsFADAbMRkwFwYD
 VQQFExBmOTIwMDllODUzYjZiMDQ1MB4XDTE4MDQxODIyMjEyNFoXDTI4MDQxNTIy
@@ -194,7 +192,7 @@ lC2vgnIoCNmf2Ew2JOvml9Z7OmbjtJIBWZxiJPcvMr6iM1G++fbbgqpVvnH1O1Tm
 +gzBvh+YirFdtbFp73lcCiI7pA0ZWyTl2L1mWQ3pEHNII+GCYLVjjWVy9pvR0G0y
 /SFwQSTFY3Auedlpj0Zzmg0O4A==
 -----END CERTIFICATE-----
-</Certificate>​​​﻿‌‌​﻿
+</Certificate>﻿‌‌﻿
 <Certificate format="pem">-----BEGIN CERTIFICATE-----
 MIIFYDCCA0igAwIBAgIJAOj6GWMU0voYMA0GCSqGSIb3DQEBCwUAMBsxGTAXBgNV
 BAUTEGY5MjAwOWU4NTNiNmIwNDUwHhcNMTYwNTI2MTYyODUyWhcNMjYwNTI0MTYy
@@ -226,10 +224,9 @@ qwLqRBYkA3I75qppLGG9rp7UCdRjxMl8ZDBld+7yvHVgt1cVzJx9xnyGCC23Uaic
 MDSXYrB4I4WHXPGjxhZuCuPBLTdOLU8YRvMYdEvYebWHMpvwGCF6bAx3JBpIeOQ1
 wDB5y0USicV3YgYGmi+NZfhA4URSh77Yd6uuJOJENRaNVTzk
 -----END CERTIFICATE-----
-</Certificate>​​‌​‌‍‍​
+</Certificate>‌‌‍‍
 <!--https://t.me/plat_L-->
-</CertificateChain>​​‌‌‌‍​‌
-</Key>​​‌‍‌﻿​‍
-</Keybox>​​‌﻿‌‍‌‌
-</AndroidAttestation>​​‍​‌​‍﻿
-# Thanks. Join My Group: t.me/plat_L
+</CertificateChain>‌‌‌‍‌
+</Key>‌‍‌﻿‍
+</Keybox>‌﻿‌‍‌‌
+</AndroidAttestation>‍‌‍﻿
