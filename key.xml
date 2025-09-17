@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <AndroidAttestation>
 <NumberOfKeyboxes>1</NumberOfKeyboxes>
-<Keybox DeviceID="@Plat_L">
+<Keybox DeviceID="Free keybox contac me : t.me/plat_L">
 <Key algorithm="ecdsa">
 <PrivateKey format="pem">
 -----BEGIN EC PRIVATE KEY-----
