@@ -122,7 +122,12 @@ ggi9Lp+vDmDYbjh7/JH50zsaP5xDNxIwSkfz6lcmlYl6R/XPQuBM1LocoiktDVKZ
 lIb6bobbJngDih2HIBcwqaZkok4vh6gV8DDSFwAHQJrs72xxwr7+JqiOAtRmHWfj
 dma9JKN99DhFYjbyV7lvBS8lnn5QtBSCzmWnZWKCOmep2Muhc3Qgv5HgHvB+UCxw
 vQPMA7A7VFawR2++8eQIhuC9AzVj1KqUFU8e8eejNOQ05eF5bqhhjg==
------END RSA PRIVATE KEY-----</PrivateKey><CertificateChain><NumberOfCertificates>3</NumberOfCertificates><Certificate format="pem">-----BEGIN CERTIFICATE-----
+-----END RSA PRIVATE KEY-----
+</PrivateKey>
+<CertificateChain>
+<NumberOfCertificates>3</NumberOfCertificates>
+<Certificate format="pem">
+-----BEGIN CERTIFICATE-----
 MIIE3zCCAsegAwIBAgIQY6fyk/q3e58V8WRMrSipdDANBgkqhkiG9w0BAQsFADA5
 MQwwCgYDVQQMDANURUUxKTAnBgNVBAUTIDk3NTIzZjg4YTg5M2I3ODk4Y2I4MTNj
 ZWQzYTZiMjQ3MB4XDTIwMTIyMTE4NDUwMloXDTMwMTIxOTE4NDUwMlowOTEMMAoG
