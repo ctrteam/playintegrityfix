@@ -11,7 +11,8 @@ MHcCAQEEIMFPIdaKY01IzsXNTOGtTrP5co2O5GeiWnBQ9ccvMzdaoAoGCCqGSM49
 AwEHoUQDQgAEpEYpPUWy0LMIqcAflIwnD7DexQswOnuZAuVH7wGaXvZO0n3Zcvlb
 By63NTrgwz8MRGPkL7icNUO1tFN+2lzOdA==
 -----END EC PRIVATE KEY-----
-</PrivateKey><CertificateChain>
+</PrivateKey>
+<CertificateChain>
 <NumberOfCertificates>3</NumberOfCertificates>
 <Certificate format="pem">
 -----BEGIN CERTIFICATE-----
